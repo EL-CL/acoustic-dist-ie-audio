@@ -6,7 +6,7 @@ The speech sounds of 300 core words in this repository are synthesized using the
 
 See [`word_list.csv`](word_list.csv) for the vocabulary of 300 core words in each language.
 
-Further utilization of these audios can be found in the reposity: https://github.com/EL-CL/acoustic-dist-ie.
+Further utilization of these audios can be found in the repository: https://github.com/EL-CL/acoustic-dist-ie.
 
 42 languages:
 
